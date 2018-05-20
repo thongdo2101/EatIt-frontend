@@ -7,7 +7,7 @@ class App extends Component {
   render() {
     return (
       <div>
-            <DetailsScreen />        
+            <SearchScreen />        
       </div>
     );
   }
