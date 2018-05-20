@@ -5,7 +5,7 @@ import img from "../img/recipe16041-635824303919364530.jpg";
 class FoodImage extends Component {
     render() {
         return (
-            <div class="row food_info">
+            <div class="row food_info_lite">
                 <div className="col-md-4">
                     <div className="details">
                         <img src = {img} alt="" width="100%" />
